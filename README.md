@@ -8,4 +8,4 @@ start checking with this command line:
 
     php apple_Validator.php list.txt
     
-![alt text](https://img4.hostingpics.net/pics/494115test.jpg)w
+![alt text](https://img4.hostingpics.net/pics/494115test.jpg)
